@@ -39,6 +39,9 @@ http://tv.nousiptv.com:8080/Gisella21/AB8935/4087
 #EXTINF:-1 tvg-id="aztecaUno.mx" tvg-name="MX | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX |  AZTECA UNO ⭐⭐⭐
 http://tv.nousiptv.com:8080/Gisella21/AB8935/1155860
 
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Canal De Las Estrellas HD ⭐
+http://andhablfus.online:2082/ibi2308/ibi2308/372627
+
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | EL CANAL DE LAS ESTRELLAS HD
 http://tv.nousiptv.com:8080/Gisella21/AB8935/4030 ●
 
@@ -189,7 +192,13 @@ https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
 #EXTINF:-1 tvg-id="Discovery Familia" tvg-name="CUL | Discovery Familia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Discovery_Familia_2007-2010.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MyC : Discovery Familia ᴴᴰ ● @
 http://andhablfus.online:2082/ibi2308/ibi2308/389773
 
-#EXTINF:-1 tvg-id="TDCLA" tvg-name="CUL | DISCOVERY EN ESPAÑOL" tvg-logo="https://www.vhv.rs/dpng/d/510-5104898_discovery-hd-logo-png-transparent-png.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | MyC - DISCOVERY EN ESPAÑOL
+#EXTINF:-1 tvg-id="TDCLA" tvg-name="CUL | DISCOVERY CHANNEL" tvg-logo="https://www.vhv.rs/dpng/d/510-5104898_discovery-hd-logo-png-transparent-png.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",Latino | Discovery Channel FHD ⭐
+http://andhablfus.online:2082/ibi2308/ibi2308/372638
+
+#EXTINF:-1 tvg-id="TDCLA" tvg-name="CUL | DISCOVERY EN ESPAÑOL" tvg-logo="https://www.vhv.rs/dpng/d/510-5104898_discovery-hd-logo-png-transparent-png.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",Latino | Discovery en Espanol HD ⭐
+http://andhablfus.online:2082/ibi2308/ibi2308/372639
+
+#EXTINF:-1 tvg-id="TDCLA" tvg-name="CUL | DISCOVERY EN ESPAÑOL" tvg-logo="https://www.vhv.rs/dpng/d/510-5104898_discovery-hd-logo-png-transparent-png.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | MyC - DISCOVERY EN ESPAÑOL ⭐⭐
 http://tv.nousiptv.com:8080/Gisella21/AB8935/56304
 
 #EXTINF:-1 tvg-id="TDCLA" tvg-name="CUL | DISCOVERY CHANNEL" tvg-logo="https://www.vhv.rs/dpng/d/510-5104898_discovery-hd-logo-png-transparent-png.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | MYC - DISCOVERY CHANNEL FHD
